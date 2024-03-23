@@ -1,4 +1,4 @@
-module github.com/grantstreetgroup/go-exasol-client
+module github.com/eddyueue/go-exasol-client
 
 go 1.17
 
